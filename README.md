@@ -1,0 +1,1 @@
+Lo que ha ocurrido es que al fusionarse las ramas con firerentes modificaciones de la rama inicial o main nos surge un conflicto a resolver ya que las modificaciones se han dado en el mismo punto.
